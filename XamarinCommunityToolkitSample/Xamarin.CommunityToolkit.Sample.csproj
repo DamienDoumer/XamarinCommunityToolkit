@@ -51,7 +51,6 @@
     <Folder Include="Pages\TestCases\" />
     <Folder Include="ViewModels\TestCases\" />
     <Folder Include="ViewModels\Extensions\" />
-    <Folder Include="Resx\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Resx\AppResources.Designer.cs">
